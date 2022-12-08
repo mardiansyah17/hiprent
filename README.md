@@ -8,3 +8,10 @@ Project ini bernama HiPrent ini adalah platform media sosial seperti facebook di
 <li>Laravel</li>
 <li>Livewire</li>
 </ul>
+
+<h1>cara menjalankan</h1>
+<ul>
+<li>npm run dev</li>
+<li>php artisan serve</li>
+<li>php artisan websocket:serve</li>
+</ul>
