@@ -11,6 +11,9 @@ Project ini bernama HiPrent ini adalah platform media sosial seperti facebook di
 
 <h1>cara menjalankan</h1>
 <ul>
+<li>Run cp .env.example .env</li>
+<li>Run php artisan key:generate</li>
+<li>Run php artisan migrate</li>
 <li>npm run dev</li>
 <li>php artisan serve</li>
 <li>php artisan websocket:serve</li>
